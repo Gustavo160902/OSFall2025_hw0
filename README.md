@@ -3,6 +3,12 @@ Operating Systems Fall 2025 Class – Homework #0
 
 ---
 
+## Names of each code file:
+-Problem 1 = hw0_OS.go
+-Problem 2 = 
+
+---
+
 ## How to Run Both Problems
 Make sure you have Go installed (version 1.25.x or newer).  
 It does not matter if you are using Linux, macOS, Windows, or WSL.  
