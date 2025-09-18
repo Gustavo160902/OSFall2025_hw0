@@ -1,4 +1,4 @@
-# OSFall2025_hw0
+# OSFall2025_hw0 // EECE.4811
 Operating Systems Fall 2025 Class. Homework #0
 # HW0 – Producer and Consumer (Go)
 ---------------------------------------------------------------------------
