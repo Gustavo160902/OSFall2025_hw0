@@ -18,15 +18,15 @@ go run hw0.go
 
 ## Designs
 Problem #1
-- The program has two processes: Producer and Consumer.
+- The program has two process Producer and Consumer.
 - The Producer makes numbers 1 to 5 and sends them to the Consumer.
 - The Consumer prints the numbers and then sends back an "ack" to the Producer.
-- I used pipes so they can talk to each other.
+- Pipes allow comunication between process to each other.
 - The Producer waits for the ack before sending the next number.
 - This repeats until both reach 5 cycles.
 
 Problem #2
-(to be added once finished)
+
 
 ---
 
@@ -36,4 +36,3 @@ Problem #1
 - They made it easier to use the concepts learned in class about how the output from one process can be sent to the second one and then back.
 
 Problem #2
-(to be added once finished)
