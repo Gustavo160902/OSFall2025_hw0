@@ -1,6 +1,8 @@
 # OSFall2025_hw0 // EECE.4811
 Operating Systems Fall 2025 Class. Homework #0
+
 ---------------------------------------
+
 # HW0 – Producer and Consumer (Go)
 The main file is:  
 - `hw0.go` → contains both Producer and Consumer in one program.  
