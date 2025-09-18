@@ -5,7 +5,7 @@ Operating Systems Fall 2025 Class – Homework #0
 
 ## Names of each code file:
 Problem 1 is hw0_OS.go  
-Problem 2 is
+Problem 2 is main.go
 
 ---
 
@@ -32,13 +32,17 @@ Problem #1
 - This repeats until both reach 5 cycles.
 
 Problem #2
-
+-There is already a test in the code to check if the program works correctly.   
+-The output of the test should be: 3 2 6 5 7 4 9 8 10 1, which should show up in the terminal.    
+-To modify the test, alter the series of push and pop functions in the main function.   
+-Works by creating a 100-sized array and using the push and pop functions to modify the elements of the array to work as a stack.
 
 ---
 
 ## Dependencies / Libraries Used
 Problem #1
-- The 2 libraries used were os and os/exec.
+- The 3 libraries used were os, os/exec and fmt.
 - They made it easier to use the concepts learned in class about how the output from one process can be sent to the second one and then back.
 
 Problem #2
+- The only library used was fmt.
