@@ -16,6 +16,7 @@ BOTH PROGRAM WERE ONLY TEST IN VSC (WINDOWS AND WSL)
 ##Designs
 
 Problem #1:
+
 The program has two process Producer and Consumer.
 The Producer makes numbers 1 to 5 and sends them to the Consumer.
 The Consumer prints the numbers and then sends back an "ack" to the Producer.
@@ -29,7 +30,7 @@ Problem #2:
 
 ----------------------
 
-##Dependencies / Libraries Used
+##Dependencies  Libraries Used
 Problem #1
 The 2 libraries used were os and os/exec.
 They made it easier to use the concepts learned in class about how the output from one process can be sent to the second one and then back.
